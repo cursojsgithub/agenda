@@ -1,0 +1,7 @@
+.tarea{
+    background-color: rgba(37, 105, 0, 0.187);
+    border: 2px solid rgb(37, 105, 0);
+    box-shadow: 2px 2px rgba(37, 105, 0, 0.187);
+    border-radius: 5px;
+    padding: 5px;
+}
